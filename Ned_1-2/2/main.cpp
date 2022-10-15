@@ -1,3 +1,4 @@
+//Пользователь вводит параметры фигуры. Найти периметр и площадь фигур:
 #include <iostream>
 #include <cmath>
 using namespace std;
